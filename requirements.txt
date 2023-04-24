@@ -1,0 +1,17 @@
+langchain
+slack_bolt
+openai
+fastapi
+filelock
+websockets
+gptcache
+uvicorn
+jinja2
+faiss-cpu
+bs4
+tiktoken
+python-dotenv
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib 
+youtube-transcript-api
